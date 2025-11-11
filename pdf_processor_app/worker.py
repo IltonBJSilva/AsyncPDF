@@ -1,1 +1,0 @@
-# Celery/RQ worker script

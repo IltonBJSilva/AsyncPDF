@@ -1,8 +1,4 @@
-# AsyncPDF
-
-
-
-### Estrutura de Pastas e Arquivos (Exemplo)
+# AsyncPDFEstrutura de Pastas e Arquivos (Exemplo)
 
 ```
 pdf_processor_app/

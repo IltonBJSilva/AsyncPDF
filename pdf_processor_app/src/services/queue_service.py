@@ -1,1 +1,0 @@
-# Queue interaction logic (Celery/RQ)
